@@ -1,0 +1,5 @@
+Really great place for all our world population data needs:
+https://ourworldindata.org/world-population-growth/#recent-history-and-projections
+
+Same as above but for fertility data that may explain whatever results we get:
+https://ourworldindata.org/fertility/#fertility-is-first-falling-with-development-and-then-rising-with-development
